@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\Curs2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07E614C3-C1FE-416A-8718-C0740ADA8E46}|Curs2\\Curs2.csproj|c:\\users\\razvan petcu\\desktop\\an2csie\\paw\\curs2\\curs2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E614C3-C1FE-416A-8718-C0740ADA8E46}|Curs2\\Curs2.csproj|solutionrelative:curs2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\Curs2\\Curs2\\Program.cs",
+              "RelativeDocumentMoniker": "Curs2\\Program.cs",
+              "ToolTip": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\Curs2\\Curs2\\Program.cs*",
+              "RelativeToolTip": "Curs2\\Program.cs*",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwB8AAACGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T12:10:34.776Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

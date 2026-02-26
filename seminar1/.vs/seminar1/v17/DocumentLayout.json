@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\seminar1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E277A3B-AB11-4C98-96C7-7A529EB4AE1B}|seminar1\\seminar1.csproj|C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\seminar1\\seminar1\\tipfilm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E277A3B-AB11-4C98-96C7-7A529EB4AE1B}|seminar1\\seminar1.csproj|solutionrelative:seminar1\\tipfilm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E277A3B-AB11-4C98-96C7-7A529EB4AE1B}|seminar1\\seminar1.csproj|C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\seminar1\\seminar1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E277A3B-AB11-4C98-96C7-7A529EB4AE1B}|seminar1\\seminar1.csproj|solutionrelative:seminar1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E277A3B-AB11-4C98-96C7-7A529EB4AE1B}|seminar1\\seminar1.csproj|C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\seminar1\\seminar1\\ivalidabil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E277A3B-AB11-4C98-96C7-7A529EB4AE1B}|seminar1\\seminar1.csproj|solutionrelative:seminar1\\ivalidabil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E277A3B-AB11-4C98-96C7-7A529EB4AE1B}|seminar1\\seminar1.csproj|C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\seminar1\\seminar1\\ipretcalculabil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E277A3B-AB11-4C98-96C7-7A529EB4AE1B}|seminar1\\seminar1.csproj|solutionrelative:seminar1\\ipretcalculabil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E277A3B-AB11-4C98-96C7-7A529EB4AE1B}|seminar1\\seminar1.csproj|C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\seminar1\\seminar1\\bilet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E277A3B-AB11-4C98-96C7-7A529EB4AE1B}|seminar1\\seminar1.csproj|solutionrelative:seminar1\\bilet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E277A3B-AB11-4C98-96C7-7A529EB4AE1B}|seminar1\\seminar1.csproj|C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\seminar1\\seminar1\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E277A3B-AB11-4C98-96C7-7A529EB4AE1B}|seminar1\\seminar1.csproj|solutionrelative:seminar1\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E277A3B-AB11-4C98-96C7-7A529EB4AE1B}|seminar1\\seminar1.csproj|c:\\users\\razvan petcu\\desktop\\an2csie\\paw\\seminar1\\seminar1\\casabilete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E277A3B-AB11-4C98-96C7-7A529EB4AE1B}|seminar1\\seminar1.csproj|solutionrelative:seminar1\\casabilete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E277A3B-AB11-4C98-96C7-7A529EB4AE1B}|seminar1\\seminar1.csproj|C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\seminar1\\seminar1\\biletstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E277A3B-AB11-4C98-96C7-7A529EB4AE1B}|seminar1\\seminar1.csproj|solutionrelative:seminar1\\biletstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CasaBilete.cs",
+              "DocumentMoniker": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\seminar1\\seminar1\\CasaBilete.cs",
+              "RelativeDocumentMoniker": "seminar1\\CasaBilete.cs",
+              "ToolTip": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\seminar1\\seminar1\\CasaBilete.cs",
+              "RelativeToolTip": "seminar1\\CasaBilete.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwCIAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T10:04:04.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BiletStudent.cs",
+              "DocumentMoniker": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\seminar1\\seminar1\\BiletStudent.cs",
+              "RelativeDocumentMoniker": "seminar1\\BiletStudent.cs",
+              "ToolTip": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\seminar1\\seminar1\\BiletStudent.cs",
+              "RelativeToolTip": "seminar1\\BiletStudent.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwBwAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T09:53:47.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TipFilm.cs",
+              "DocumentMoniker": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\seminar1\\seminar1\\TipFilm.cs",
+              "RelativeDocumentMoniker": "seminar1\\TipFilm.cs",
+              "ToolTip": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\seminar1\\seminar1\\TipFilm.cs",
+              "RelativeToolTip": "seminar1\\TipFilm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T09:36:26.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bilet.cs",
+              "DocumentMoniker": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\seminar1\\seminar1\\Bilet.cs",
+              "RelativeDocumentMoniker": "seminar1\\Bilet.cs",
+              "ToolTip": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\seminar1\\seminar1\\Bilet.cs",
+              "RelativeToolTip": "seminar1\\Bilet.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAwwDcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T09:29:35.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IValidabil.cs",
+              "DocumentMoniker": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\seminar1\\seminar1\\IValidabil.cs",
+              "RelativeDocumentMoniker": "seminar1\\IValidabil.cs",
+              "ToolTip": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\seminar1\\seminar1\\IValidabil.cs",
+              "RelativeToolTip": "seminar1\\IValidabil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T09:28:50.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPretCalculabil.cs",
+              "DocumentMoniker": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\seminar1\\seminar1\\IPretCalculabil.cs",
+              "RelativeDocumentMoniker": "seminar1\\IPretCalculabil.cs",
+              "ToolTip": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\seminar1\\seminar1\\IPretCalculabil.cs",
+              "RelativeToolTip": "seminar1\\IPretCalculabil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T09:27:00.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\seminar1\\seminar1\\Client.cs",
+              "RelativeDocumentMoniker": "seminar1\\Client.cs",
+              "ToolTip": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\seminar1\\seminar1\\Client.cs",
+              "RelativeToolTip": "seminar1\\Client.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T09:09:07.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\seminar1\\seminar1\\Program.cs",
+              "RelativeDocumentMoniker": "seminar1\\Program.cs",
+              "ToolTip": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\seminar1\\seminar1\\Program.cs",
+              "RelativeToolTip": "seminar1\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T09:06:52.092Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\Curs2_Exercitiu_delegat\Curs2_Exercitiu_delegat\bin\Debug\Curs2_Exercitiu_delegat.exe.config
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\Curs2_Exercitiu_delegat\Curs2_Exercitiu_delegat\bin\Debug\Curs2_Exercitiu_delegat.exe
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\Curs2_Exercitiu_delegat\Curs2_Exercitiu_delegat\bin\Debug\Curs2_Exercitiu_delegat.pdb
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\Curs2_Exercitiu_delegat\Curs2_Exercitiu_delegat\obj\Debug\Curs2_Exercitiu_delegat.csproj.AssemblyReference.cache
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\Curs2_Exercitiu_delegat\Curs2_Exercitiu_delegat\obj\Debug\Curs2_Exercitiu_delegat.csproj.CoreCompileInputs.cache
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\Curs2_Exercitiu_delegat\Curs2_Exercitiu_delegat\obj\Debug\Curs2_Exercitiu_delegat.exe
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\Curs2_Exercitiu_delegat\Curs2_Exercitiu_delegat\obj\Debug\Curs2_Exercitiu_delegat.pdb
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\Curs2_Exercitiu_delegat\Curs2_Exercitiu_delegat\obj\Debug\Curs2_Exercitiu_delegat.exe.config

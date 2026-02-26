@@ -1,0 +1,8 @@
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\curs1\curs1\bin\Debug\curs1.exe.config
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\curs1\curs1\bin\Debug\curs1.exe
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\curs1\curs1\bin\Debug\curs1.pdb
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\curs1\curs1\obj\Debug\curs1.csproj.AssemblyReference.cache
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\curs1\curs1\obj\Debug\curs1.csproj.CoreCompileInputs.cache
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\curs1\curs1\obj\Debug\curs1.exe
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\curs1\curs1\obj\Debug\curs1.pdb
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\curs1\curs1\obj\Debug\curs1.exe.config
