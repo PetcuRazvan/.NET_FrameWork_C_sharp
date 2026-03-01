@@ -44,7 +44,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Bilet.cs" />
+    <Compile Include="BiletSenior.cs" />
     <Compile Include="BiletStudent.cs" />
+    <Compile Include="BiletVip.cs" />
     <Compile Include="CasaBilete.cs" />
     <Compile Include="Client.cs" />
     <Compile Include="IPretCalculabil.cs" />
