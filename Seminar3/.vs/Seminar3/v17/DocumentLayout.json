@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\Seminar3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3BEBBF-56EE-4F83-B810-5ACC6AC88078}|Seminar3\\Seminar3.csproj|c:\\users\\razvan petcu\\desktop\\an2csie\\paw\\seminar3\\seminar3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3BEBBF-56EE-4F83-B810-5ACC6AC88078}|Seminar3\\Seminar3.csproj|solutionrelative:seminar3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3BEBBF-56EE-4F83-B810-5ACC6AC88078}|Seminar3\\Seminar3.csproj|c:\\users\\razvan petcu\\desktop\\an2csie\\paw\\seminar3\\seminar3\\depozit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3BEBBF-56EE-4F83-B810-5ACC6AC88078}|Seminar3\\Seminar3.csproj|solutionrelative:seminar3\\depozit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3BEBBF-56EE-4F83-B810-5ACC6AC88078}|Seminar3\\Seminar3.csproj|c:\\users\\razvan petcu\\desktop\\an2csie\\paw\\seminar3\\seminar3\\comandaschimbatstareeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3BEBBF-56EE-4F83-B810-5ACC6AC88078}|Seminar3\\Seminar3.csproj|solutionrelative:seminar3\\comandaschimbatstareeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3BEBBF-56EE-4F83-B810-5ACC6AC88078}|Seminar3\\Seminar3.csproj|c:\\users\\razvan petcu\\desktop\\an2csie\\paw\\seminar3\\seminar3\\comanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3BEBBF-56EE-4F83-B810-5ACC6AC88078}|Seminar3\\Seminar3.csproj|solutionrelative:seminar3\\comanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3BEBBF-56EE-4F83-B810-5ACC6AC88078}|Seminar3\\Seminar3.csproj|c:\\users\\razvan petcu\\desktop\\an2csie\\paw\\seminar3\\seminar3\\notificareclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3BEBBF-56EE-4F83-B810-5ACC6AC88078}|Seminar3\\Seminar3.csproj|solutionrelative:seminar3\\notificareclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3BEBBF-56EE-4F83-B810-5ACC6AC88078}|Seminar3\\Seminar3.csproj|c:\\users\\razvan petcu\\desktop\\an2csie\\paw\\seminar3\\seminar3\\notificareservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3BEBBF-56EE-4F83-B810-5ACC6AC88078}|Seminar3\\Seminar3.csproj|solutionrelative:seminar3\\notificareservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3BEBBF-56EE-4F83-B810-5ACC6AC88078}|Seminar3\\Seminar3.csproj|c:\\users\\razvan petcu\\desktop\\an2csie\\paw\\seminar3\\seminar3\\produs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3BEBBF-56EE-4F83-B810-5ACC6AC88078}|Seminar3\\Seminar3.csproj|solutionrelative:seminar3\\produs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3BEBBF-56EE-4F83-B810-5ACC6AC88078}|Seminar3\\Seminar3.csproj|c:\\users\\razvan petcu\\desktop\\an2csie\\paw\\seminar3\\seminar3\\starecomanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3BEBBF-56EE-4F83-B810-5ACC6AC88078}|Seminar3\\Seminar3.csproj|solutionrelative:seminar3\\starecomanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Depozit.cs",
+              "DocumentMoniker": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\Seminar3\\Seminar3\\Depozit.cs",
+              "RelativeDocumentMoniker": "Seminar3\\Depozit.cs",
+              "ToolTip": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\Seminar3\\Seminar3\\Depozit.cs",
+              "RelativeToolTip": "Seminar3\\Depozit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T09:59:26.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NotificareClient.cs",
+              "DocumentMoniker": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\Seminar3\\Seminar3\\NotificareClient.cs",
+              "RelativeDocumentMoniker": "Seminar3\\NotificareClient.cs",
+              "ToolTip": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\Seminar3\\Seminar3\\NotificareClient.cs",
+              "RelativeToolTip": "Seminar3\\NotificareClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T09:26:53.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Produs.cs",
+              "DocumentMoniker": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\Seminar3\\Seminar3\\Produs.cs",
+              "RelativeDocumentMoniker": "Seminar3\\Produs.cs",
+              "ToolTip": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\Seminar3\\Seminar3\\Produs.cs",
+              "RelativeToolTip": "Seminar3\\Produs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T09:02:59.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Comanda.cs",
+              "DocumentMoniker": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\Seminar3\\Seminar3\\Comanda.cs",
+              "RelativeDocumentMoniker": "Seminar3\\Comanda.cs",
+              "ToolTip": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\Seminar3\\Seminar3\\Comanda.cs",
+              "RelativeToolTip": "Seminar3\\Comanda.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T09:02:00.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StareComanda.cs",
+              "DocumentMoniker": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\Seminar3\\Seminar3\\StareComanda.cs",
+              "RelativeDocumentMoniker": "Seminar3\\StareComanda.cs",
+              "ToolTip": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\Seminar3\\Seminar3\\StareComanda.cs",
+              "RelativeToolTip": "Seminar3\\StareComanda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T09:00:22.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\Seminar3\\Seminar3\\Program.cs",
+              "RelativeDocumentMoniker": "Seminar3\\Program.cs",
+              "ToolTip": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\Seminar3\\Seminar3\\Program.cs",
+              "RelativeToolTip": "Seminar3\\Program.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwFMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T08:59:35.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ComandaSchimbatStareEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\Seminar3\\Seminar3\\ComandaSchimbatStareEventArgs.cs",
+              "RelativeDocumentMoniker": "Seminar3\\ComandaSchimbatStareEventArgs.cs",
+              "ToolTip": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\Seminar3\\Seminar3\\ComandaSchimbatStareEventArgs.cs",
+              "RelativeToolTip": "Seminar3\\ComandaSchimbatStareEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T10:13:43.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NotificareService.cs",
+              "DocumentMoniker": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\Seminar3\\Seminar3\\NotificareService.cs",
+              "RelativeDocumentMoniker": "Seminar3\\NotificareService.cs",
+              "ToolTip": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\Seminar3\\Seminar3\\NotificareService.cs",
+              "RelativeToolTip": "Seminar3\\NotificareService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T09:29:30.073Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

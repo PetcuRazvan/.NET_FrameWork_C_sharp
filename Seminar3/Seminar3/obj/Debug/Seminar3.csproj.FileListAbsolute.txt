@@ -1,0 +1,8 @@
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\Seminar3\Seminar3\bin\Debug\Seminar3.exe.config
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\Seminar3\Seminar3\bin\Debug\Seminar3.exe
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\Seminar3\Seminar3\bin\Debug\Seminar3.pdb
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\Seminar3\Seminar3\obj\Debug\Seminar3.csproj.AssemblyReference.cache
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\Seminar3\Seminar3\obj\Debug\Seminar3.csproj.CoreCompileInputs.cache
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\Seminar3\Seminar3\obj\Debug\Seminar3.exe
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\Seminar3\Seminar3\obj\Debug\Seminar3.pdb
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\Seminar3\Seminar3\obj\Debug\Seminar3.exe.config
