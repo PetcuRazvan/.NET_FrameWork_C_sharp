@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\.NET_FrameWork_C_sharp\\Curs3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6E69B8-7D72-40D4-8C18-2E5B2790B207}|Curs3\\Curs3.csproj|c:\\users\\razvan petcu\\desktop\\an2csie\\paw\\.net_framework_c_sharp\\curs3\\curs3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A6E69B8-7D72-40D4-8C18-2E5B2790B207}|Curs3\\Curs3.csproj|solutionrelative:curs3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\.NET_FrameWork_C_sharp\\Curs3\\Curs3\\Program.cs",
+              "RelativeDocumentMoniker": "Curs3\\Program.cs",
+              "ToolTip": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\.NET_FrameWork_C_sharp\\Curs3\\Curs3\\Program.cs",
+              "RelativeToolTip": "Curs3\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T12:26:37.406Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

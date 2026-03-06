@@ -1,0 +1,8 @@
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\.NET_FrameWork_C_sharp\Curs3\Curs3\bin\Debug\Curs3.exe.config
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\.NET_FrameWork_C_sharp\Curs3\Curs3\bin\Debug\Curs3.exe
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\.NET_FrameWork_C_sharp\Curs3\Curs3\bin\Debug\Curs3.pdb
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\.NET_FrameWork_C_sharp\Curs3\Curs3\obj\Debug\Curs3.csproj.AssemblyReference.cache
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\.NET_FrameWork_C_sharp\Curs3\Curs3\obj\Debug\Curs3.csproj.CoreCompileInputs.cache
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\.NET_FrameWork_C_sharp\Curs3\Curs3\obj\Debug\Curs3.exe
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\.NET_FrameWork_C_sharp\Curs3\Curs3\obj\Debug\Curs3.pdb
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\.NET_FrameWork_C_sharp\Curs3\Curs3\obj\Debug\Curs3.exe.config
