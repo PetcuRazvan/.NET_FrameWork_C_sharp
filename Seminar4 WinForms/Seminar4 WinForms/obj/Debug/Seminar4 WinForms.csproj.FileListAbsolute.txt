@@ -1,0 +1,11 @@
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\.NET_FrameWork_C_sharp\Seminar4 WinForms\Seminar4 WinForms\bin\Debug\Seminar4 WinForms.exe.config
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\.NET_FrameWork_C_sharp\Seminar4 WinForms\Seminar4 WinForms\bin\Debug\Seminar4 WinForms.exe
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\.NET_FrameWork_C_sharp\Seminar4 WinForms\Seminar4 WinForms\bin\Debug\Seminar4 WinForms.pdb
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\.NET_FrameWork_C_sharp\Seminar4 WinForms\Seminar4 WinForms\obj\Debug\Seminar4 WinForms.csproj.AssemblyReference.cache
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\.NET_FrameWork_C_sharp\Seminar4 WinForms\Seminar4 WinForms\obj\Debug\Seminar4_WinForms.Form1.resources
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\.NET_FrameWork_C_sharp\Seminar4 WinForms\Seminar4 WinForms\obj\Debug\Seminar4_WinForms.Properties.Resources.resources
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\.NET_FrameWork_C_sharp\Seminar4 WinForms\Seminar4 WinForms\obj\Debug\Seminar4 WinForms.csproj.GenerateResource.cache
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\.NET_FrameWork_C_sharp\Seminar4 WinForms\Seminar4 WinForms\obj\Debug\Seminar4 WinForms.csproj.CoreCompileInputs.cache
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\.NET_FrameWork_C_sharp\Seminar4 WinForms\Seminar4 WinForms\obj\Debug\Seminar4 WinForms.exe
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\.NET_FrameWork_C_sharp\Seminar4 WinForms\Seminar4 WinForms\obj\Debug\Seminar4 WinForms.pdb
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\.NET_FrameWork_C_sharp\Seminar4 WinForms\Seminar4 WinForms\obj\Debug\Seminar4 WinForms.exe.config
