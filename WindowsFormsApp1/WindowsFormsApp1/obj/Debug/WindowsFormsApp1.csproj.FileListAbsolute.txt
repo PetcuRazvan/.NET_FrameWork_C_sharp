@@ -1,0 +1,12 @@
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\.NET_FrameWork_C_sharp\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\.NET_FrameWork_C_sharp\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\.NET_FrameWork_C_sharp\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\.NET_FrameWork_C_sharp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\.NET_FrameWork_C_sharp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\.NET_FrameWork_C_sharp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\.NET_FrameWork_C_sharp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\.NET_FrameWork_C_sharp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\.NET_FrameWork_C_sharp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\.NET_FrameWork_C_sharp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\.NET_FrameWork_C_sharp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\.NET_FrameWork_C_sharp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormAngajat.resources
