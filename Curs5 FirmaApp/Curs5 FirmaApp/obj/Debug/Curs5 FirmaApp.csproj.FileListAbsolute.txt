@@ -1,0 +1,12 @@
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\.NET_FrameWork_C_sharp\Curs5 FirmaApp\Curs5 FirmaApp\bin\Debug\Curs5 FirmaApp.exe.config
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\.NET_FrameWork_C_sharp\Curs5 FirmaApp\Curs5 FirmaApp\bin\Debug\Curs5 FirmaApp.exe
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\.NET_FrameWork_C_sharp\Curs5 FirmaApp\Curs5 FirmaApp\bin\Debug\Curs5 FirmaApp.pdb
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\.NET_FrameWork_C_sharp\Curs5 FirmaApp\Curs5 FirmaApp\obj\Debug\Curs5 FirmaApp.csproj.AssemblyReference.cache
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\.NET_FrameWork_C_sharp\Curs5 FirmaApp\Curs5 FirmaApp\obj\Debug\Curs5_FirmaApp.Form1.resources
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\.NET_FrameWork_C_sharp\Curs5 FirmaApp\Curs5 FirmaApp\obj\Debug\Curs5_FirmaApp.Properties.Resources.resources
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\.NET_FrameWork_C_sharp\Curs5 FirmaApp\Curs5 FirmaApp\obj\Debug\Curs5 FirmaApp.csproj.GenerateResource.cache
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\.NET_FrameWork_C_sharp\Curs5 FirmaApp\Curs5 FirmaApp\obj\Debug\Curs5 FirmaApp.csproj.CoreCompileInputs.cache
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\.NET_FrameWork_C_sharp\Curs5 FirmaApp\Curs5 FirmaApp\obj\Debug\Curs5 FirmaApp.exe
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\.NET_FrameWork_C_sharp\Curs5 FirmaApp\Curs5 FirmaApp\obj\Debug\Curs5 FirmaApp.pdb
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\.NET_FrameWork_C_sharp\Curs5 FirmaApp\Curs5 FirmaApp\obj\Debug\Curs5 FirmaApp.exe.config
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\.NET_FrameWork_C_sharp\Curs5 FirmaApp\Curs5 FirmaApp\obj\Debug\Curs5_FirmaApp.Form_actualizare.resources

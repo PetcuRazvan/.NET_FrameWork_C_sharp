@@ -26,23 +26,13 @@ namespace Curs3_Windows_Forms
             string s = $"{obj.Valoare,6}|{obj.Patrat,6}|"; //6 ne pastreaza valoarea incadrata intr-un segment de lungime 6
             lb.Items.Add(s); //adaugam calculul in list box
             //cel mai top font este Consolas, spatiile au aceeasi marime si de astea, e aliniat totul
+            var rd = lv.Items.Add(obj.Valoare.ToString());
+            rd.SubItems.Add(obj.Patrat.ToString());
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            try
-            {
-                obe1.Valoare = int.Parse(e1.Text);
-                lb.SelectedIndex = -1;
-                err.SetError(e1, null); //face ca eroarea sa dispara
-            } 
-            catch (FormatException ex)
-            {
-                //MessageBox.Show(ex.Message, "ERR", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                //putem face asa, sau
-                err.SetError(e1, "invalid");
-            }
-            
+            e1_Validating(e1, new CancelEventArgs());
         }
 
         public void Form1_load(object sender, EventArgs e)
@@ -70,6 +60,45 @@ namespace Curs3_Windows_Forms
             string sel = lb.SelectedItem as string;
             e1.Text = (sel.Split('|')[0]).Trim();
             pe1.Text = (sel.Split('|')[1]).Trim();
+        }
+
+        private void e1_Validating(object sender, CancelEventArgs e)
+        {
+            try
+            {
+                obe1.Valoare = int.Parse(e1.Text);
+                lb.SelectedIndex = -1;
+                err.SetError(e1, null); //face ca eroarea sa dispara
+            }
+            catch (FormatException ex)
+            {
+                //MessageBox.Show(ex.Message, "ERR", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                //putem face asa, sau
+                err.SetError(e1, "invalid");
+                e.Cancel = true;
+            }
+
+        }
+
+        private void radioButton1_CheckedChanged(object sender, EventArgs e)
+        {
+            if (((RadioButton)sender).Tag == "D")
+            {
+                lv.View = View.Details;
+                return;
+            }
+
+            if (((RadioButton)sender).Tag == "L")
+            {
+                lv.View = View.List;
+                return;
+            }
+
+            if (((RadioButton)sender).Tag == "T")
+            {
+                lv.View = View.Tile;
+                return;
+            }
         }
     }
 }
