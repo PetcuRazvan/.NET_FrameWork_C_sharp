@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\.NET_FrameWork_C_sharp\\Seminar6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9884D89E-6467-4D66-8482-FBDBD3E4BA84}|Seminar6\\Seminar6.csproj|c:\\users\\razvan petcu\\desktop\\an2csie\\paw\\.net_framework_c_sharp\\seminar6\\seminar6\\carterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9884D89E-6467-4D66-8482-FBDBD3E4BA84}|Seminar6\\Seminar6.csproj|solutionrelative:seminar6\\carterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9884D89E-6467-4D66-8482-FBDBD3E4BA84}|Seminar6\\Seminar6.csproj|c:\\users\\razvan petcu\\desktop\\an2csie\\paw\\.net_framework_c_sharp\\seminar6\\seminar6\\formcarte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9884D89E-6467-4D66-8482-FBDBD3E4BA84}|Seminar6\\Seminar6.csproj|solutionrelative:seminar6\\formcarte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9884D89E-6467-4D66-8482-FBDBD3E4BA84}|Seminar6\\Seminar6.csproj|c:\\users\\razvan petcu\\desktop\\an2csie\\paw\\.net_framework_c_sharp\\seminar6\\seminar6\\formcarte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9884D89E-6467-4D66-8482-FBDBD3E4BA84}|Seminar6\\Seminar6.csproj|solutionrelative:seminar6\\formcarte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9884D89E-6467-4D66-8482-FBDBD3E4BA84}|Seminar6\\Seminar6.csproj|c:\\users\\razvan petcu\\desktop\\an2csie\\paw\\.net_framework_c_sharp\\seminar6\\seminar6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9884D89E-6467-4D66-8482-FBDBD3E4BA84}|Seminar6\\Seminar6.csproj|solutionrelative:seminar6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9884D89E-6467-4D66-8482-FBDBD3E4BA84}|Seminar6\\Seminar6.csproj|c:\\users\\razvan petcu\\desktop\\an2csie\\paw\\.net_framework_c_sharp\\seminar6\\seminar6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9884D89E-6467-4D66-8482-FBDBD3E4BA84}|Seminar6\\Seminar6.csproj|solutionrelative:seminar6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9884D89E-6467-4D66-8482-FBDBD3E4BA84}|Seminar6\\Seminar6.csproj|c:\\users\\razvan petcu\\desktop\\an2csie\\paw\\.net_framework_c_sharp\\seminar6\\seminar6\\fakedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9884D89E-6467-4D66-8482-FBDBD3E4BA84}|Seminar6\\Seminar6.csproj|solutionrelative:seminar6\\fakedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9884D89E-6467-4D66-8482-FBDBD3E4BA84}|Seminar6\\Seminar6.csproj|c:\\users\\razvan petcu\\desktop\\an2csie\\paw\\.net_framework_c_sharp\\seminar6\\seminar6\\carte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9884D89E-6467-4D66-8482-FBDBD3E4BA84}|Seminar6\\Seminar6.csproj|solutionrelative:seminar6\\carte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9884D89E-6467-4D66-8482-FBDBD3E4BA84}|Seminar6\\Seminar6.csproj|c:\\users\\razvan petcu\\desktop\\an2csie\\paw\\.net_framework_c_sharp\\seminar6\\seminar6\\gencarte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9884D89E-6467-4D66-8482-FBDBD3E4BA84}|Seminar6\\Seminar6.csproj|solutionrelative:seminar6\\gencarte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormCarte.cs",
+              "DocumentMoniker": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\.NET_FrameWork_C_sharp\\Seminar6\\Seminar6\\FormCarte.cs",
+              "RelativeDocumentMoniker": "Seminar6\\FormCarte.cs",
+              "ToolTip": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\.NET_FrameWork_C_sharp\\Seminar6\\Seminar6\\FormCarte.cs",
+              "RelativeToolTip": "Seminar6\\FormCarte.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T09:50:03.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\.NET_FrameWork_C_sharp\\Seminar6\\Seminar6\\Form1.cs",
+              "RelativeDocumentMoniker": "Seminar6\\Form1.cs",
+              "ToolTip": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\.NET_FrameWork_C_sharp\\Seminar6\\Seminar6\\Form1.cs",
+              "RelativeToolTip": "Seminar6\\Form1.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAIwEYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T08:54:16.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\.NET_FrameWork_C_sharp\\Seminar6\\Seminar6\\Form1.cs",
+              "RelativeDocumentMoniker": "Seminar6\\Form1.cs",
+              "ToolTip": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\.NET_FrameWork_C_sharp\\Seminar6\\Seminar6\\Form1.cs [Design]",
+              "RelativeToolTip": "Seminar6\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T08:51:56.245Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormCarte.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\.NET_FrameWork_C_sharp\\Seminar6\\Seminar6\\FormCarte.cs",
+              "RelativeDocumentMoniker": "Seminar6\\FormCarte.cs",
+              "ToolTip": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\.NET_FrameWork_C_sharp\\Seminar6\\Seminar6\\FormCarte.cs [Design]",
+              "RelativeToolTip": "Seminar6\\FormCarte.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T09:41:06.637Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\.NET_FrameWork_C_sharp\\Seminar6\\Seminar6\\CarteRepository.cs",
+              "RelativeDocumentMoniker": "Seminar6\\CarteRepository.cs",
+              "ToolTip": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\.NET_FrameWork_C_sharp\\Seminar6\\Seminar6\\CarteRepository.cs",
+              "RelativeToolTip": "Seminar6\\CarteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T09:33:20.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FakeDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\.NET_FrameWork_C_sharp\\Seminar6\\Seminar6\\FakeDatabase.cs",
+              "RelativeDocumentMoniker": "Seminar6\\FakeDatabase.cs",
+              "ToolTip": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\.NET_FrameWork_C_sharp\\Seminar6\\Seminar6\\FakeDatabase.cs",
+              "RelativeToolTip": "Seminar6\\FakeDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T09:15:59.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GenCarte.cs",
+              "DocumentMoniker": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\.NET_FrameWork_C_sharp\\Seminar6\\Seminar6\\GenCarte.cs",
+              "RelativeDocumentMoniker": "Seminar6\\GenCarte.cs",
+              "ToolTip": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\.NET_FrameWork_C_sharp\\Seminar6\\Seminar6\\GenCarte.cs",
+              "RelativeToolTip": "Seminar6\\GenCarte.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T09:05:45.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Carte.cs",
+              "DocumentMoniker": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\.NET_FrameWork_C_sharp\\Seminar6\\Seminar6\\Carte.cs",
+              "RelativeDocumentMoniker": "Seminar6\\Carte.cs",
+              "ToolTip": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\.NET_FrameWork_C_sharp\\Seminar6\\Seminar6\\Carte.cs",
+              "RelativeToolTip": "Seminar6\\Carte.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T09:06:31.744Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
