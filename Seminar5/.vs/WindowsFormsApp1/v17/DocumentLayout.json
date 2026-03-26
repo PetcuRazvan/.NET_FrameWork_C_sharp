@@ -1,9 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\.NET_FrameWork_C_sharp\\WindowsFormsApp1\\",
+  "WorkspaceRootPath": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\.NET_FrameWork_C_sharp\\Seminar5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{84172727-25FF-4A05-8BB7-4C064A7220BE}|WindowsFormsApp1\\Seminar5.csproj|c:\\users\\razvan petcu\\desktop\\an2csie\\paw\\.net_framework_c_sharp\\windowsformsapp1\\windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{84172727-25FF-4A05-8BB7-4C064A7220BE}|WindowsFormsApp1\\Seminar5.csproj|c:\\users\\razvan petcu\\desktop\\an2csie\\paw\\.net_framework_c_sharp\\seminar5\\windowsformsapp1\\angajat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84172727-25FF-4A05-8BB7-4C064A7220BE}|WindowsFormsApp1\\Seminar5.csproj|solutionrelative:windowsformsapp1\\angajat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84172727-25FF-4A05-8BB7-4C064A7220BE}|WindowsFormsApp1\\Seminar5.csproj|c:\\users\\razvan petcu\\desktop\\an2csie\\paw\\.net_framework_c_sharp\\seminar5\\windowsformsapp1\\formangajat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84172727-25FF-4A05-8BB7-4C064A7220BE}|WindowsFormsApp1\\Seminar5.csproj|solutionrelative:windowsformsapp1\\formangajat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84172727-25FF-4A05-8BB7-4C064A7220BE}|WindowsFormsApp1\\Seminar5.csproj|c:\\users\\razvan petcu\\desktop\\an2csie\\paw\\.net_framework_c_sharp\\seminar5\\windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84172727-25FF-4A05-8BB7-4C064A7220BE}|WindowsFormsApp1\\Seminar5.csproj|solutionrelative:windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,10 +27,35 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Angajat.cs",
+              "DocumentMoniker": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\.NET_FrameWork_C_sharp\\Seminar5\\WindowsFormsApp1\\Angajat.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Angajat.cs",
+              "ToolTip": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\.NET_FrameWork_C_sharp\\Seminar5\\WindowsFormsApp1\\Angajat.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Angajat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T08:39:45.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormAngajat.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\.NET_FrameWork_C_sharp\\Seminar5\\WindowsFormsApp1\\FormAngajat.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\FormAngajat.cs",
+              "ToolTip": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\.NET_FrameWork_C_sharp\\Seminar5\\WindowsFormsApp1\\FormAngajat.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\FormAngajat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T08:39:41.035Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\.NET_FrameWork_C_sharp\\WindowsFormsApp1\\WindowsFormsApp1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\.NET_FrameWork_C_sharp\\Seminar5\\WindowsFormsApp1\\Program.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Program.cs",
-              "ToolTip": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\.NET_FrameWork_C_sharp\\WindowsFormsApp1\\WindowsFormsApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\.NET_FrameWork_C_sharp\\Seminar5\\WindowsFormsApp1\\Program.cs",
               "RelativeToolTip": "WindowsFormsApp1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
