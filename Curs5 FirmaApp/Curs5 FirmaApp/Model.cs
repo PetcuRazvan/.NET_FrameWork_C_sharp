@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Runtime.Serialization;
+using System.IO;
 
 namespace Curs5_FirmaApp
 {
@@ -13,20 +15,23 @@ namespace Curs5_FirmaApp
         public int Index_Salariat => idxm;
     }
 
+    [DataContract]
     public class Salariat
     {
-        public int Marca { get; set; }
-        public string Nume { get; set; }
-        public int NrOre { get; set; }
-        public int Salo { get; set; } //salo = salariu/ora
+        [DataMember] public int Marca { get; set; } //marcam ce campuri vrem sa fie serializate
+        [DataMember] public string Nume { get; set; }
+        [DataMember] public int NrOre { get; set; }
+        [DataMember] public int Salo { get; set; } //salo = salariu/ora
+        public int Salariu => NrOre * Salo;
     }
 
+    [DataContract]
     public class Firma
     {
         public event EventHandler<Firma_EvArgs> Ev_Modificare_Firma;
 
-        string sfirma;
-        List<Salariat> ls = null;
+        [DataMember] string sfirma;
+        [DataMember] List<Salariat> ls = null;
         public Firma(string fnf = "Firma.SRL")
         {
             sfirma = fnf;
@@ -37,6 +42,7 @@ namespace Curs5_FirmaApp
 
         public int Numar_salariati => ls.Count;
         public string Nume_firma => sfirma;
+        public int Fond_sal => ls.Sum(s => s.Salariu);
 
         public void Adauga_Sal(Salariat obs)
         {
@@ -61,6 +67,30 @@ namespace Curs5_FirmaApp
                     Ev_Modificare_Firma?.Invoke(this, new Firma_EvArgs(k)); 
                 }
             }
+        }
+
+        public void Serializeaza(string nfis)
+        {
+            FileStream fs = new FileStream(nfis, FileMode.Create);
+            DataContractSerializer obs = new DataContractSerializer(typeof(Firma));
+
+            obs.WriteObject(fs, this);
+            fs.Close();
+        }
+
+        public void Deserializeaza(string nfis)
+        {
+            FileStream fs = new FileStream(nfis, FileMode.Open);
+            DataContractSerializer obs = new DataContractSerializer(typeof(Firma));
+
+            Firma aux = obs.ReadObject(fs) as Firma;
+
+            sfirma = aux.sfirma;
+            ls.Clear();
+            foreach (Salariat s in aux.Salariati) Adauga_Sal(s);
+            
+
+            fs.Close();
         }
     }
 }

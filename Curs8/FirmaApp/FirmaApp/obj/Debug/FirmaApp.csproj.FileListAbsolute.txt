@@ -1,0 +1,35 @@
+F:\FirmaApp\FirmaApp\bin\Debug\FirmaApp.exe.config
+F:\FirmaApp\FirmaApp\bin\Debug\FirmaApp.exe
+F:\FirmaApp\FirmaApp\bin\Debug\FirmaApp.pdb
+F:\FirmaApp\FirmaApp\obj\Debug\FirmaApp.csproj.AssemblyReference.cache
+F:\FirmaApp\FirmaApp\obj\Debug\FirmaApp.Form1.resources
+F:\FirmaApp\FirmaApp\obj\Debug\FirmaApp.Properties.Resources.resources
+F:\FirmaApp\FirmaApp\obj\Debug\FirmaApp.csproj.GenerateResource.cache
+F:\FirmaApp\FirmaApp\obj\Debug\FirmaApp.csproj.CoreCompileInputs.cache
+F:\FirmaApp\FirmaApp\obj\Debug\FirmaApp.exe
+F:\FirmaApp\FirmaApp\obj\Debug\FirmaApp.pdb
+F:\FirmaApp\FirmaApp\obj\Debug\FirmaApp.Form_actualizare.resources
+T:\FirmaApp\FirmaApp\bin\Debug\FirmaApp.exe.config
+T:\FirmaApp\FirmaApp\bin\Debug\FirmaApp.exe
+T:\FirmaApp\FirmaApp\bin\Debug\FirmaApp.pdb
+T:\FirmaApp\FirmaApp\obj\Debug\FirmaApp.csproj.AssemblyReference.cache
+T:\FirmaApp\FirmaApp\obj\Debug\FirmaApp.exe.config
+T:\FirmaApp\FirmaApp\obj\Debug\FirmaApp.Form1.resources
+T:\FirmaApp\FirmaApp\obj\Debug\FirmaApp.Form_actualizare.resources
+T:\FirmaApp\FirmaApp\obj\Debug\FirmaApp.Properties.Resources.resources
+T:\FirmaApp\FirmaApp\obj\Debug\FirmaApp.csproj.GenerateResource.cache
+T:\FirmaApp\FirmaApp\obj\Debug\FirmaApp.csproj.CoreCompileInputs.cache
+T:\FirmaApp\FirmaApp\obj\Debug\FirmaApp.exe
+T:\FirmaApp\FirmaApp\obj\Debug\FirmaApp.pdb
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\NET_FrameWork_C_sharp\Curs8\FirmaApp\FirmaApp\obj\Debug\FirmaApp.csproj.AssemblyReference.cache
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\NET_FrameWork_C_sharp\Curs8\FirmaApp\FirmaApp\obj\Debug\FirmaApp.exe.config
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\NET_FrameWork_C_sharp\Curs8\FirmaApp\FirmaApp\obj\Debug\FirmaApp.exe
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\NET_FrameWork_C_sharp\Curs8\FirmaApp\FirmaApp\obj\Debug\FirmaApp.pdb
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\NET_FrameWork_C_sharp\Curs8\FirmaApp\FirmaApp\bin\Debug\FirmaApp.exe.config
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\NET_FrameWork_C_sharp\Curs8\FirmaApp\FirmaApp\bin\Debug\FirmaApp.exe
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\NET_FrameWork_C_sharp\Curs8\FirmaApp\FirmaApp\bin\Debug\FirmaApp.pdb
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\NET_FrameWork_C_sharp\Curs8\FirmaApp\FirmaApp\obj\Debug\FirmaApp.Form1.resources
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\NET_FrameWork_C_sharp\Curs8\FirmaApp\FirmaApp\obj\Debug\FirmaApp.Form_actualizare.resources
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\NET_FrameWork_C_sharp\Curs8\FirmaApp\FirmaApp\obj\Debug\FirmaApp.Properties.Resources.resources
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\NET_FrameWork_C_sharp\Curs8\FirmaApp\FirmaApp\obj\Debug\FirmaApp.csproj.GenerateResource.cache
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\NET_FrameWork_C_sharp\Curs8\FirmaApp\FirmaApp\obj\Debug\FirmaApp.csproj.CoreCompileInputs.cache

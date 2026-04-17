@@ -3,32 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\NET_FrameWork_C_sharp\\S7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Razvan Petcu\\AppData\\Local\\Temp\\3m2jazu5..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+      "AbsoluteMoniker": "D:0:0:{F831CEC7-57B9-41BB-BBF6-03547AF9F9EE}|Seminar7\\Seminar7.csproj|C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\NET_FrameWork_C_sharp\\S7\\seminar7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F831CEC7-57B9-41BB-BBF6-03547AF9F9EE}|Seminar7\\Seminar7.csproj|solutionrelative:seminar7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F831CEC7-57B9-41BB-BBF6-03547AF9F9EE}|Seminar7\\Seminar7.csproj|c:\\users\\razvan petcu\\desktop\\an2csie\\paw\\net_framework_c_sharp\\s7\\seminar7\\carterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F831CEC7-57B9-41BB-BBF6-03547AF9F9EE}|Seminar7\\Seminar7.csproj|solutionrelative:seminar7\\carterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F831CEC7-57B9-41BB-BBF6-03547AF9F9EE}|Seminar7\\Seminar7.csproj|c:\\users\\razvan petcu\\desktop\\an2csie\\paw\\net_framework_c_sharp\\s7\\seminar7\\formcarte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F831CEC7-57B9-41BB-BBF6-03547AF9F9EE}|Seminar7\\Seminar7.csproj|solutionrelative:seminar7\\formcarte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F831CEC7-57B9-41BB-BBF6-03547AF9F9EE}|Seminar7\\Seminar7.csproj|c:\\users\\razvan petcu\\desktop\\an2csie\\paw\\net_framework_c_sharp\\s7\\seminar7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F831CEC7-57B9-41BB-BBF6-03547AF9F9EE}|Seminar7\\Seminar7.csproj|solutionrelative:seminar7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F831CEC7-57B9-41BB-BBF6-03547AF9F9EE}|Seminar7\\Seminar7.csproj|c:\\users\\razvan petcu\\desktop\\an2csie\\paw\\net_framework_c_sharp\\s7\\seminar7\\carte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F831CEC7-57B9-41BB-BBF6-03547AF9F9EE}|Seminar7\\Seminar7.csproj|solutionrelative:seminar7\\carte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_RAZVAN_PETCU_DESKTOP_AN2CSIE_PAW_NET_FRAMEWORK_C_SHARP_S7_SEMINAR7_DATABASE1.MDF/True/SqlTable/dbo.Carti.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F831CEC7-57B9-41BB-BBF6-03547AF9F9EE}|Seminar7\\Seminar7.csproj|c:\\users\\razvan petcu\\desktop\\an2csie\\paw\\net_framework_c_sharp\\s7\\seminar7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F831CEC7-57B9-41BB-BBF6-03547AF9F9EE}|Seminar7\\Seminar7.csproj|C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\NET_FrameWork_C_sharp\\S7\\seminar7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F831CEC7-57B9-41BB-BBF6-03547AF9F9EE}|Seminar7\\Seminar7.csproj|solutionrelative:seminar7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Razvan Petcu\\AppData\\Local\\Temp\\3m2jazu5..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+      "AbsoluteMoniker": "D:0:0:{F831CEC7-57B9-41BB-BBF6-03547AF9F9EE}|Seminar7\\Seminar7.csproj|C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\NET_FrameWork_C_sharp\\S7\\seminar7\\carterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F831CEC7-57B9-41BB-BBF6-03547AF9F9EE}|Seminar7\\Seminar7.csproj|solutionrelative:seminar7\\carterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Razvan Petcu\\AppData\\Local\\Temp\\3m2jazu5..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+      "AbsoluteMoniker": "D:0:0:{F831CEC7-57B9-41BB-BBF6-03547AF9F9EE}|Seminar7\\Seminar7.csproj|C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\NET_FrameWork_C_sharp\\S7\\seminar7\\carte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F831CEC7-57B9-41BB-BBF6-03547AF9F9EE}|Seminar7\\Seminar7.csproj|solutionrelative:seminar7\\carte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F831CEC7-57B9-41BB-BBF6-03547AF9F9EE}|Seminar7\\Seminar7.csproj|C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\NET_FrameWork_C_sharp\\S7\\seminar7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F831CEC7-57B9-41BB-BBF6-03547AF9F9EE}|Seminar7\\Seminar7.csproj|solutionrelative:seminar7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_RAZVAN_PETCU_DESKTOP_AN2CSIE_PAW_NET_FRAMEWORK_C_SHARP_S7_SEMINAR7_DATABASE1.MDF/True/SqlTable/dbo.Carti.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +37,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "FormCarte.cs",
+              "DocumentMoniker": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\NET_FrameWork_C_sharp\\S7\\Seminar7\\FormCarte.cs",
+              "RelativeDocumentMoniker": "Seminar7\\FormCarte.cs",
+              "ToolTip": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\NET_FrameWork_C_sharp\\S7\\Seminar7\\FormCarte.cs",
+              "RelativeToolTip": "Seminar7\\FormCarte.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T21:07:30.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\NET_FrameWork_C_sharp\\S7\\Seminar7\\Form1.cs",
+              "RelativeDocumentMoniker": "Seminar7\\Form1.cs",
+              "ToolTip": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\NET_FrameWork_C_sharp\\S7\\Seminar7\\Form1.cs",
+              "RelativeToolTip": "Seminar7\\Form1.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABUAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T20:56:02.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Carte.cs",
               "DocumentMoniker": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\NET_FrameWork_C_sharp\\S7\\Seminar7\\Carte.cs",
               "RelativeDocumentMoniker": "Seminar7\\Carte.cs",
@@ -55,41 +80,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "dbo.Carti [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_RAZVAN_PETCU_DESKTOP_AN2CSIE_PAW_NET_FRAMEWORK_C_SHARP_S7_SEMINAR7_DATABASE1.MDF/True/SqlTable/dbo.Carti.sql",
-              "ToolTip": "dbo.Carti [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2026-03-30T08:51:08.107Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "CarteRepository.cs",
               "DocumentMoniker": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\NET_FrameWork_C_sharp\\S7\\Seminar7\\CarteRepository.cs",
               "RelativeDocumentMoniker": "Seminar7\\CarteRepository.cs",
               "ToolTip": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\NET_FrameWork_C_sharp\\S7\\Seminar7\\CarteRepository.cs",
               "RelativeToolTip": "Seminar7\\CarteRepository.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAYwHcAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAE0AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-30T08:32:36.209Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SQLQuery1.sql ",
-              "DocumentMoniker": "C:\\Users\\Razvan Petcu\\AppData\\Local\\Temp\\3m2jazu5..sql",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\3m2jazu5..sql",
-              "ToolTip": "SQLQuery1.sql *",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2026-03-30T08:30:01.119Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\NET_FrameWork_C_sharp\\S7\\Seminar7\\Program.cs",
               "RelativeDocumentMoniker": "Seminar7\\Program.cs",
@@ -102,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\NET_FrameWork_C_sharp\\S7\\Seminar7\\Form1.cs",
               "RelativeDocumentMoniker": "Seminar7\\Form1.cs",
@@ -111,6 +115,15 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-30T08:03:01.39Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbo.Carti.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_RAZVAN_PETCU_DESKTOP_AN2CSIE_PAW_NET_FRAMEWORK_C_SHARP_S7_SEMINAR7_DATABASE1.MDF/True/SqlTable/dbo.Carti.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_RAZVAN_PETCU_DESKTOP_AN2CSIE_PAW_NET_FRAMEWORK_C_SHARP_S7_SEMINAR7_DATABASE1.MDF/True/SqlTable/dbo.Carti.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-30T08:51:08.107Z"
             }
           ]
         }

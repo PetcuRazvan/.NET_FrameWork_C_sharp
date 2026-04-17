@@ -1,0 +1,11 @@
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\NET_FrameWork_C_sharp\Curs8\Grafica\Grafica\bin\Debug\Grafica.exe.config
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\NET_FrameWork_C_sharp\Curs8\Grafica\Grafica\bin\Debug\Grafica.exe
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\NET_FrameWork_C_sharp\Curs8\Grafica\Grafica\bin\Debug\Grafica.pdb
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\NET_FrameWork_C_sharp\Curs8\Grafica\Grafica\obj\Debug\Grafica.csproj.AssemblyReference.cache
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\NET_FrameWork_C_sharp\Curs8\Grafica\Grafica\obj\Debug\Grafica.Form1.resources
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\NET_FrameWork_C_sharp\Curs8\Grafica\Grafica\obj\Debug\Grafica.Properties.Resources.resources
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\NET_FrameWork_C_sharp\Curs8\Grafica\Grafica\obj\Debug\Grafica.csproj.GenerateResource.cache
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\NET_FrameWork_C_sharp\Curs8\Grafica\Grafica\obj\Debug\Grafica.csproj.CoreCompileInputs.cache
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\NET_FrameWork_C_sharp\Curs8\Grafica\Grafica\obj\Debug\Grafica.exe
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\NET_FrameWork_C_sharp\Curs8\Grafica\Grafica\obj\Debug\Grafica.pdb
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\NET_FrameWork_C_sharp\Curs8\Grafica\Grafica\obj\Debug\Grafica.exe.config

@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
-            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
+            this.men = new System.Windows.Forms.MenuStrip();
             this.dateToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.deschideToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.stocheazaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -49,24 +49,24 @@
             this.Column2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.menuStrip1.SuspendLayout();
+            this.men.SuspendLayout();
             this.statusStrip1.SuspendLayout();
             this.toolStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.gv)).BeginInit();
             this.SuspendLayout();
             // 
-            // menuStrip1
+            // men
             // 
-            this.menuStrip1.GripMargin = new System.Windows.Forms.Padding(2, 2, 0, 2);
-            this.menuStrip1.ImageScalingSize = new System.Drawing.Size(24, 24);
-            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.men.GripMargin = new System.Windows.Forms.Padding(2, 2, 0, 2);
+            this.men.ImageScalingSize = new System.Drawing.Size(24, 24);
+            this.men.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.dateToolStripMenuItem,
             this.operatiiSalariatiToolStripMenuItem});
-            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
-            this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(843, 33);
-            this.menuStrip1.TabIndex = 1;
-            this.menuStrip1.Text = "menuStrip1";
+            this.men.Location = new System.Drawing.Point(0, 0);
+            this.men.Name = "men";
+            this.men.Size = new System.Drawing.Size(843, 33);
+            this.men.TabIndex = 1;
+            this.men.Text = "menuStrip1";
             // 
             // dateToolStripMenuItem
             // 
@@ -81,14 +81,16 @@
             // deschideToolStripMenuItem
             // 
             this.deschideToolStripMenuItem.Name = "deschideToolStripMenuItem";
-            this.deschideToolStripMenuItem.Size = new System.Drawing.Size(193, 34);
+            this.deschideToolStripMenuItem.Size = new System.Drawing.Size(270, 34);
             this.deschideToolStripMenuItem.Text = "Deschide";
+            this.deschideToolStripMenuItem.Click += new System.EventHandler(this.deschideToolStripMenuItem_Click);
             // 
             // stocheazaToolStripMenuItem
             // 
             this.stocheazaToolStripMenuItem.Name = "stocheazaToolStripMenuItem";
-            this.stocheazaToolStripMenuItem.Size = new System.Drawing.Size(193, 34);
+            this.stocheazaToolStripMenuItem.Size = new System.Drawing.Size(270, 34);
             this.stocheazaToolStripMenuItem.Text = "Stocheaza";
+            this.stocheazaToolStripMenuItem.Click += new System.EventHandler(this.stocheazaToolStripMenuItem_Click);
             // 
             // iesireToolStripMenuItem
             // 
@@ -110,7 +112,7 @@
             // adaugaToolStripMenuItem
             // 
             this.adaugaToolStripMenuItem.Name = "adaugaToolStripMenuItem";
-            this.adaugaToolStripMenuItem.Size = new System.Drawing.Size(270, 34);
+            this.adaugaToolStripMenuItem.Size = new System.Drawing.Size(183, 34);
             this.adaugaToolStripMenuItem.Tag = "A";
             this.adaugaToolStripMenuItem.Text = "Adauga";
             this.adaugaToolStripMenuItem.Click += new System.EventHandler(this.adaugaToolStripMenuItem_Click);
@@ -118,7 +120,7 @@
             // modificaToolStripMenuItem
             // 
             this.modificaToolStripMenuItem.Name = "modificaToolStripMenuItem";
-            this.modificaToolStripMenuItem.Size = new System.Drawing.Size(270, 34);
+            this.modificaToolStripMenuItem.Size = new System.Drawing.Size(183, 34);
             this.modificaToolStripMenuItem.Tag = "M";
             this.modificaToolStripMenuItem.Text = "Modifica";
             this.modificaToolStripMenuItem.Click += new System.EventHandler(this.adaugaToolStripMenuItem_Click);
@@ -251,13 +253,13 @@
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.toolStrip1);
             this.Controls.Add(this.statusStrip1);
-            this.Controls.Add(this.menuStrip1);
-            this.MainMenuStrip = this.menuStrip1;
+            this.Controls.Add(this.men);
+            this.MainMenuStrip = this.men;
             this.Name = "Form1";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
-            this.menuStrip1.ResumeLayout(false);
-            this.menuStrip1.PerformLayout();
+            this.men.ResumeLayout(false);
+            this.men.PerformLayout();
             this.statusStrip1.ResumeLayout(false);
             this.statusStrip1.PerformLayout();
             this.toolStrip1.ResumeLayout(false);
@@ -270,7 +272,7 @@
 
         #endregion
 
-        private System.Windows.Forms.MenuStrip menuStrip1;
+        private System.Windows.Forms.MenuStrip men;
         private System.Windows.Forms.ToolStripMenuItem dateToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem deschideToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem stocheazaToolStripMenuItem;

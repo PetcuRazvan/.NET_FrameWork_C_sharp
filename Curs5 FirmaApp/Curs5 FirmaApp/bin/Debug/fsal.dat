@@ -1,0 +1,1 @@
+<Firma xmlns="http://schemas.datacontract.org/2004/07/Curs5_FirmaApp" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><ls><Salariat><Marca>100</Marca><NrOre>0</NrOre><Nume>Vasile</Nume><Salo>0</Salo></Salariat><Salariat><Marca>670</Marca><NrOre>54</NrOre><Nume>Petcu</Nume><Salo>54</Salo></Salariat></ls><sfirma>ASE_SRL</sfirma></Firma>
