@@ -1,0 +1,10 @@
+E:\PAW_23_24\trasare\trasare\bin\Debug\trasare.exe.config
+E:\PAW_23_24\trasare\trasare\bin\Debug\trasare.exe
+E:\PAW_23_24\trasare\trasare\bin\Debug\trasare.pdb
+E:\PAW_23_24\trasare\trasare\obj\Debug\trasare.csproj.AssemblyReference.cache
+E:\PAW_23_24\trasare\trasare\obj\Debug\trasare.Form1.resources
+E:\PAW_23_24\trasare\trasare\obj\Debug\trasare.Properties.Resources.resources
+E:\PAW_23_24\trasare\trasare\obj\Debug\trasare.csproj.GenerateResource.cache
+E:\PAW_23_24\trasare\trasare\obj\Debug\trasare.csproj.CoreCompileInputs.cache
+E:\PAW_23_24\trasare\trasare\obj\Debug\trasare.exe
+E:\PAW_23_24\trasare\trasare\obj\Debug\trasare.pdb

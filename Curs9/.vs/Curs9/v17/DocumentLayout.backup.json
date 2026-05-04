@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\NET_FrameWork_C_sharp\\Curs9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA34FF71-1AD9-4C2A-BAC6-033CCD5EB739}|Curs9\\Curs9.csproj|c:\\users\\razvan petcu\\desktop\\an2csie\\paw\\net_framework_c_sharp\\curs9\\curs9\\bar_gr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA34FF71-1AD9-4C2A-BAC6-033CCD5EB739}|Curs9\\Curs9.csproj|solutionrelative:curs9\\bar_gr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA34FF71-1AD9-4C2A-BAC6-033CCD5EB739}|Curs9\\Curs9.csproj|c:\\users\\razvan petcu\\desktop\\an2csie\\paw\\net_framework_c_sharp\\curs9\\curs9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA34FF71-1AD9-4C2A-BAC6-033CCD5EB739}|Curs9\\Curs9.csproj|solutionrelative:curs9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA34FF71-1AD9-4C2A-BAC6-033CCD5EB739}|Curs9\\Curs9.csproj|c:\\users\\razvan petcu\\desktop\\an2csie\\paw\\net_framework_c_sharp\\curs9\\curs9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA34FF71-1AD9-4C2A-BAC6-033CCD5EB739}|Curs9\\Curs9.csproj|solutionrelative:curs9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\NET_FrameWork_C_sharp\\Curs9\\Curs9\\Form1.cs",
+              "RelativeDocumentMoniker": "Curs9\\Form1.cs",
+              "ToolTip": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\NET_FrameWork_C_sharp\\Curs9\\Curs9\\Form1.cs",
+              "RelativeToolTip": "Curs9\\Form1.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwCIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:00:07.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bar_gr.cs",
+              "DocumentMoniker": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\NET_FrameWork_C_sharp\\Curs9\\Curs9\\Bar_gr.cs",
+              "RelativeDocumentMoniker": "Curs9\\Bar_gr.cs",
+              "ToolTip": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\NET_FrameWork_C_sharp\\Curs9\\Curs9\\Bar_gr.cs*",
+              "RelativeToolTip": "Curs9\\Bar_gr.cs*",
+              "ViewState": "AgIAACsAAAAAAAAAAAAswDsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T11:32:44.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\NET_FrameWork_C_sharp\\Curs9\\Curs9\\Form1.cs",
+              "RelativeDocumentMoniker": "Curs9\\Form1.cs",
+              "ToolTip": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\NET_FrameWork_C_sharp\\Curs9\\Curs9\\Form1.cs [Design]",
+              "RelativeToolTip": "Curs9\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T11:23:48.655Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

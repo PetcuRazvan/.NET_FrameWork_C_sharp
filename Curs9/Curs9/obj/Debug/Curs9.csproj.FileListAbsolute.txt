@@ -1,0 +1,11 @@
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\NET_FrameWork_C_sharp\Curs9\Curs9\bin\Debug\Curs9.exe.config
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\NET_FrameWork_C_sharp\Curs9\Curs9\bin\Debug\Curs9.exe
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\NET_FrameWork_C_sharp\Curs9\Curs9\bin\Debug\Curs9.pdb
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\NET_FrameWork_C_sharp\Curs9\Curs9\obj\Debug\Curs9.csproj.AssemblyReference.cache
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\NET_FrameWork_C_sharp\Curs9\Curs9\obj\Debug\Curs9.Form1.resources
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\NET_FrameWork_C_sharp\Curs9\Curs9\obj\Debug\Curs9.Properties.Resources.resources
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\NET_FrameWork_C_sharp\Curs9\Curs9\obj\Debug\Curs9.csproj.GenerateResource.cache
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\NET_FrameWork_C_sharp\Curs9\Curs9\obj\Debug\Curs9.csproj.CoreCompileInputs.cache
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\NET_FrameWork_C_sharp\Curs9\Curs9\obj\Debug\Curs9.exe
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\NET_FrameWork_C_sharp\Curs9\Curs9\obj\Debug\Curs9.pdb
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\NET_FrameWork_C_sharp\Curs9\Curs9\obj\Debug\Curs9.exe.config

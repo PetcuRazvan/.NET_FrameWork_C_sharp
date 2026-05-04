@@ -1,0 +1,11 @@
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\NET_FrameWork_C_sharp\Seminar8\Seminar8\bin\Debug\Seminar8.exe.config
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\NET_FrameWork_C_sharp\Seminar8\Seminar8\bin\Debug\Seminar8.exe
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\NET_FrameWork_C_sharp\Seminar8\Seminar8\bin\Debug\Seminar8.pdb
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\NET_FrameWork_C_sharp\Seminar8\Seminar8\obj\Debug\Seminar8.csproj.AssemblyReference.cache
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\NET_FrameWork_C_sharp\Seminar8\Seminar8\obj\Debug\Seminar8.Form1.resources
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\NET_FrameWork_C_sharp\Seminar8\Seminar8\obj\Debug\Seminar8.Properties.Resources.resources
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\NET_FrameWork_C_sharp\Seminar8\Seminar8\obj\Debug\Seminar8.csproj.GenerateResource.cache
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\NET_FrameWork_C_sharp\Seminar8\Seminar8\obj\Debug\Seminar8.csproj.CoreCompileInputs.cache
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\NET_FrameWork_C_sharp\Seminar8\Seminar8\obj\Debug\Seminar8.exe
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\NET_FrameWork_C_sharp\Seminar8\Seminar8\obj\Debug\Seminar8.pdb
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\NET_FrameWork_C_sharp\Seminar8\Seminar8\obj\Debug\Seminar8.exe.config
