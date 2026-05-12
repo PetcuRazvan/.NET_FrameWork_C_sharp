@@ -7,19 +7,19 @@
       "RelativeMoniker": "D:0:0:{37B0F735-4D06-4E01-AB35-EC65D7177B57}|Seminar8\\Seminar8.csproj|solutionrelative:seminar8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37B0F735-4D06-4E01-AB35-EC65D7177B57}|Seminar8\\Seminar8.csproj|c:\\users\\razvan petcu\\desktop\\an2csie\\paw\\net_framework_c_sharp\\seminar8\\seminar8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{37B0F735-4D06-4E01-AB35-EC65D7177B57}|Seminar8\\Seminar8.csproj|C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\NET_FrameWork_C_sharp\\Seminar8\\seminar8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{37B0F735-4D06-4E01-AB35-EC65D7177B57}|Seminar8\\Seminar8.csproj|solutionrelative:seminar8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37B0F735-4D06-4E01-AB35-EC65D7177B57}|Seminar8\\Seminar8.csproj|c:\\users\\razvan petcu\\desktop\\an2csie\\paw\\net_framework_c_sharp\\seminar8\\seminar8\\zibursiera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{37B0F735-4D06-4E01-AB35-EC65D7177B57}|Seminar8\\Seminar8.csproj|C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\NET_FrameWork_C_sharp\\Seminar8\\seminar8\\zibursiera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37B0F735-4D06-4E01-AB35-EC65D7177B57}|Seminar8\\Seminar8.csproj|solutionrelative:seminar8\\zibursiera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37B0F735-4D06-4E01-AB35-EC65D7177B57}|Seminar8\\Seminar8.csproj|c:\\users\\razvan petcu\\desktop\\an2csie\\paw\\net_framework_c_sharp\\seminar8\\seminar8\\fakedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{37B0F735-4D06-4E01-AB35-EC65D7177B57}|Seminar8\\Seminar8.csproj|C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\NET_FrameWork_C_sharp\\Seminar8\\seminar8\\fakedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37B0F735-4D06-4E01-AB35-EC65D7177B57}|Seminar8\\Seminar8.csproj|solutionrelative:seminar8\\fakedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37B0F735-4D06-4E01-AB35-EC65D7177B57}|Seminar8\\Seminar8.csproj|c:\\users\\razvan petcu\\desktop\\an2csie\\paw\\net_framework_c_sharp\\seminar8\\seminar8\\companie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{37B0F735-4D06-4E01-AB35-EC65D7177B57}|Seminar8\\Seminar8.csproj|C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\NET_FrameWork_C_sharp\\Seminar8\\seminar8\\companie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37B0F735-4D06-4E01-AB35-EC65D7177B57}|Seminar8\\Seminar8.csproj|solutionrelative:seminar8\\companie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,9 +38,9 @@
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\NET_FrameWork_C_sharp\\Seminar8\\Seminar8\\Form1.cs",
               "RelativeDocumentMoniker": "Seminar8\\Form1.cs",
-              "ToolTip": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\NET_FrameWork_C_sharp\\Seminar8\\Seminar8\\Form1.cs*",
-              "RelativeToolTip": "Seminar8\\Form1.cs*",
-              "ViewState": "AgIAAGgAAAAAAAAAAAAAAHQAAAAMAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\NET_FrameWork_C_sharp\\Seminar8\\Seminar8\\Form1.cs",
+              "RelativeToolTip": "Seminar8\\Form1.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAHQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-20T08:12:09.125Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "Seminar8\\FakeDatabase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T08:01:49.417Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-20T08:01:49.417Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "Seminar8\\ZiBursiera.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T07:59:51.516Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-20T07:59:51.516Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "Seminar8\\Companie.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T07:58:52.178Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-20T07:58:52.178Z"
             },
             {
               "$type": "Document",
@@ -90,8 +87,8 @@
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\NET_FrameWork_C_sharp\\Seminar8\\Seminar8\\Form1.cs",
               "RelativeDocumentMoniker": "Seminar8\\Form1.cs",
-              "ToolTip": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\NET_FrameWork_C_sharp\\Seminar8\\Seminar8\\Form1.cs [Design]*",
-              "RelativeToolTip": "Seminar8\\Form1.cs [Design]*",
+              "ToolTip": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\NET_FrameWork_C_sharp\\Seminar8\\Seminar8\\Form1.cs [Design]",
+              "RelativeToolTip": "Seminar8\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-20T07:50:30.583Z",
               "EditorCaption": " [Design]"

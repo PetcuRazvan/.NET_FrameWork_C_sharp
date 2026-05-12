@@ -41,18 +41,18 @@
             this.cbCompanii = new System.Windows.Forms.ComboBox();
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.pretInchidereTabPage = new System.Windows.Forms.TabPage();
-            this.volumTabPage = new System.Windows.Forms.TabPage();
-            this.evolutieTabPage = new System.Windows.Forms.TabPage();
             this.pretInchiderChart = new System.Windows.Forms.DataVisualization.Charting.Chart();
+            this.volumTabPage = new System.Windows.Forms.TabPage();
             this.volumChart = new System.Windows.Forms.DataVisualization.Charting.Chart();
+            this.evolutieTabPage = new System.Windows.Forms.TabPage();
             this.evolutieChart = new System.Windows.Forms.DataVisualization.Charting.Chart();
             this.tableLayoutPanel1.SuspendLayout();
             this.tabControl1.SuspendLayout();
             this.pretInchidereTabPage.SuspendLayout();
-            this.volumTabPage.SuspendLayout();
-            this.evolutieTabPage.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pretInchiderChart)).BeginInit();
+            this.volumTabPage.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.volumChart)).BeginInit();
+            this.evolutieTabPage.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.evolutieChart)).BeginInit();
             this.SuspendLayout();
             // 
@@ -104,28 +104,6 @@
             this.pretInchidereTabPage.Text = "Pret inchidere";
             this.pretInchidereTabPage.UseVisualStyleBackColor = true;
             // 
-            // volumTabPage
-            // 
-            this.volumTabPage.Controls.Add(this.volumChart);
-            this.volumTabPage.Location = new System.Drawing.Point(4, 29);
-            this.volumTabPage.Name = "volumTabPage";
-            this.volumTabPage.Padding = new System.Windows.Forms.Padding(3);
-            this.volumTabPage.Size = new System.Drawing.Size(910, 407);
-            this.volumTabPage.TabIndex = 1;
-            this.volumTabPage.Text = "Volum tranzactionat";
-            this.volumTabPage.UseVisualStyleBackColor = true;
-            // 
-            // evolutieTabPage
-            // 
-            this.evolutieTabPage.Controls.Add(this.evolutieChart);
-            this.evolutieTabPage.Location = new System.Drawing.Point(4, 29);
-            this.evolutieTabPage.Name = "evolutieTabPage";
-            this.evolutieTabPage.Padding = new System.Windows.Forms.Padding(3);
-            this.evolutieTabPage.Size = new System.Drawing.Size(910, 407);
-            this.evolutieTabPage.TabIndex = 2;
-            this.evolutieTabPage.Text = "Evolutie";
-            this.evolutieTabPage.UseVisualStyleBackColor = true;
-            // 
             // pretInchiderChart
             // 
             chartArea1.Name = "ChartArea1";
@@ -143,6 +121,17 @@
             this.pretInchiderChart.TabIndex = 0;
             this.pretInchiderChart.Text = "chart1";
             // 
+            // volumTabPage
+            // 
+            this.volumTabPage.Controls.Add(this.volumChart);
+            this.volumTabPage.Location = new System.Drawing.Point(4, 29);
+            this.volumTabPage.Name = "volumTabPage";
+            this.volumTabPage.Padding = new System.Windows.Forms.Padding(3);
+            this.volumTabPage.Size = new System.Drawing.Size(910, 407);
+            this.volumTabPage.TabIndex = 1;
+            this.volumTabPage.Text = "Volum tranzactionat";
+            this.volumTabPage.UseVisualStyleBackColor = true;
+            // 
             // volumChart
             // 
             chartArea2.Name = "ChartArea1";
@@ -159,6 +148,17 @@
             this.volumChart.Size = new System.Drawing.Size(904, 401);
             this.volumChart.TabIndex = 0;
             this.volumChart.Text = "chart1";
+            // 
+            // evolutieTabPage
+            // 
+            this.evolutieTabPage.Controls.Add(this.evolutieChart);
+            this.evolutieTabPage.Location = new System.Drawing.Point(4, 29);
+            this.evolutieTabPage.Name = "evolutieTabPage";
+            this.evolutieTabPage.Padding = new System.Windows.Forms.Padding(3);
+            this.evolutieTabPage.Size = new System.Drawing.Size(910, 407);
+            this.evolutieTabPage.TabIndex = 2;
+            this.evolutieTabPage.Text = "Evolutie";
+            this.evolutieTabPage.UseVisualStyleBackColor = true;
             // 
             // evolutieChart
             // 
@@ -188,10 +188,10 @@
             this.tableLayoutPanel1.ResumeLayout(false);
             this.tabControl1.ResumeLayout(false);
             this.pretInchidereTabPage.ResumeLayout(false);
-            this.volumTabPage.ResumeLayout(false);
-            this.evolutieTabPage.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pretInchiderChart)).EndInit();
+            this.volumTabPage.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.volumChart)).EndInit();
+            this.evolutieTabPage.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.evolutieChart)).EndInit();
             this.ResumeLayout(false);
 

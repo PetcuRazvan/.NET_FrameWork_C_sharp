@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\NET_FrameWork_C_sharp\\Sminar12dartrebuiasafie11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4020D2-197C-4084-AF62-A7D2C51D6109}|Sminar12dartrebuiasafie11\\Sminar12dartrebuiasafie11.csproj|c:\\users\\razvan petcu\\desktop\\an2csie\\paw\\net_framework_c_sharp\\sminar12dartrebuiasafie11\\sminar12dartrebuiasafie11\\formlista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4020D2-197C-4084-AF62-A7D2C51D6109}|Sminar12dartrebuiasafie11\\Sminar12dartrebuiasafie11.csproj|solutionrelative:sminar12dartrebuiasafie11\\formlista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4020D2-197C-4084-AF62-A7D2C51D6109}|Sminar12dartrebuiasafie11\\Sminar12dartrebuiasafie11.csproj|C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\NET_FrameWork_C_sharp\\Sminar12dartrebuiasafie11\\sminar12dartrebuiasafie11\\formlista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E4020D2-197C-4084-AF62-A7D2C51D6109}|Sminar12dartrebuiasafie11\\Sminar12dartrebuiasafie11.csproj|solutionrelative:sminar12dartrebuiasafie11\\formlista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4020D2-197C-4084-AF62-A7D2C51D6109}|Sminar12dartrebuiasafie11\\Sminar12dartrebuiasafie11.csproj|C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\NET_FrameWork_C_sharp\\Sminar12dartrebuiasafie11\\sminar12dartrebuiasafie11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4020D2-197C-4084-AF62-A7D2C51D6109}|Sminar12dartrebuiasafie11\\Sminar12dartrebuiasafie11.csproj|solutionrelative:sminar12dartrebuiasafie11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4020D2-197C-4084-AF62-A7D2C51D6109}|Sminar12dartrebuiasafie11\\Sminar12dartrebuiasafie11.csproj|C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\NET_FrameWork_C_sharp\\Sminar12dartrebuiasafie11\\sminar12dartrebuiasafie11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E4020D2-197C-4084-AF62-A7D2C51D6109}|Sminar12dartrebuiasafie11\\Sminar12dartrebuiasafie11.csproj|solutionrelative:sminar12dartrebuiasafie11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4020D2-197C-4084-AF62-A7D2C51D6109}|Sminar12dartrebuiasafie11\\Sminar12dartrebuiasafie11.csproj|C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\NET_FrameWork_C_sharp\\Sminar12dartrebuiasafie11\\sminar12dartrebuiasafie11\\formtasknou.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E4020D2-197C-4084-AF62-A7D2C51D6109}|Sminar12dartrebuiasafie11\\Sminar12dartrebuiasafie11.csproj|solutionrelative:sminar12dartrebuiasafie11\\formtasknou.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4020D2-197C-4084-AF62-A7D2C51D6109}|Sminar12dartrebuiasafie11\\Sminar12dartrebuiasafie11.csproj|C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\NET_FrameWork_C_sharp\\Sminar12dartrebuiasafie11\\sminar12dartrebuiasafie11\\todotask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4020D2-197C-4084-AF62-A7D2C51D6109}|Sminar12dartrebuiasafie11\\Sminar12dartrebuiasafie11.csproj|solutionrelative:sminar12dartrebuiasafie11\\todotask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4020D2-197C-4084-AF62-A7D2C51D6109}|Sminar12dartrebuiasafie11\\Sminar12dartrebuiasafie11.csproj|C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\NET_FrameWork_C_sharp\\Sminar12dartrebuiasafie11\\sminar12dartrebuiasafie11\\fakedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4020D2-197C-4084-AF62-A7D2C51D6109}|Sminar12dartrebuiasafie11\\Sminar12dartrebuiasafie11.csproj|solutionrelative:sminar12dartrebuiasafie11\\fakedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4020D2-197C-4084-AF62-A7D2C51D6109}|Sminar12dartrebuiasafie11\\Sminar12dartrebuiasafie11.csproj|C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\NET_FrameWork_C_sharp\\Sminar12dartrebuiasafie11\\sminar12dartrebuiasafie11\\prioritate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4020D2-197C-4084-AF62-A7D2C51D6109}|Sminar12dartrebuiasafie11\\Sminar12dartrebuiasafie11.csproj|solutionrelative:sminar12dartrebuiasafie11\\prioritate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormLista.cs",
+              "DocumentMoniker": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\NET_FrameWork_C_sharp\\Sminar12dartrebuiasafie11\\Sminar12dartrebuiasafie11\\FormLista.cs",
+              "RelativeDocumentMoniker": "Sminar12dartrebuiasafie11\\FormLista.cs",
+              "ToolTip": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\NET_FrameWork_C_sharp\\Sminar12dartrebuiasafie11\\Sminar12dartrebuiasafie11\\FormLista.cs",
+              "RelativeToolTip": "Sminar12dartrebuiasafie11\\FormLista.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAEMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T08:28:11.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormTaskNou.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\NET_FrameWork_C_sharp\\Sminar12dartrebuiasafie11\\Sminar12dartrebuiasafie11\\FormTaskNou.cs",
+              "RelativeDocumentMoniker": "Sminar12dartrebuiasafie11\\FormTaskNou.cs",
+              "ToolTip": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\NET_FrameWork_C_sharp\\Sminar12dartrebuiasafie11\\Sminar12dartrebuiasafie11\\FormTaskNou.cs [Design]",
+              "RelativeToolTip": "Sminar12dartrebuiasafie11\\FormTaskNou.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T08:24:40.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\NET_FrameWork_C_sharp\\Sminar12dartrebuiasafie11\\Sminar12dartrebuiasafie11\\Form1.cs",
+              "RelativeDocumentMoniker": "Sminar12dartrebuiasafie11\\Form1.cs",
+              "ToolTip": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\NET_FrameWork_C_sharp\\Sminar12dartrebuiasafie11\\Sminar12dartrebuiasafie11\\Form1.cs",
+              "RelativeToolTip": "Sminar12dartrebuiasafie11\\Form1.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAuwDAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T08:16:07.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormLista.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\NET_FrameWork_C_sharp\\Sminar12dartrebuiasafie11\\Sminar12dartrebuiasafie11\\FormLista.cs",
+              "RelativeDocumentMoniker": "Sminar12dartrebuiasafie11\\FormLista.cs",
+              "ToolTip": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\NET_FrameWork_C_sharp\\Sminar12dartrebuiasafie11\\Sminar12dartrebuiasafie11\\FormLista.cs [Design]",
+              "RelativeToolTip": "Sminar12dartrebuiasafie11\\FormLista.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T08:13:26.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FakeDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\NET_FrameWork_C_sharp\\Sminar12dartrebuiasafie11\\Sminar12dartrebuiasafie11\\FakeDatabase.cs",
+              "RelativeDocumentMoniker": "Sminar12dartrebuiasafie11\\FakeDatabase.cs",
+              "ToolTip": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\NET_FrameWork_C_sharp\\Sminar12dartrebuiasafie11\\Sminar12dartrebuiasafie11\\FakeDatabase.cs",
+              "RelativeToolTip": "Sminar12dartrebuiasafie11\\FakeDatabase.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T08:09:25.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TodoTask.cs",
+              "DocumentMoniker": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\NET_FrameWork_C_sharp\\Sminar12dartrebuiasafie11\\Sminar12dartrebuiasafie11\\TodoTask.cs",
+              "RelativeDocumentMoniker": "Sminar12dartrebuiasafie11\\TodoTask.cs",
+              "ToolTip": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\NET_FrameWork_C_sharp\\Sminar12dartrebuiasafie11\\Sminar12dartrebuiasafie11\\TodoTask.cs",
+              "RelativeToolTip": "Sminar12dartrebuiasafie11\\TodoTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T08:08:09.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\NET_FrameWork_C_sharp\\Sminar12dartrebuiasafie11\\Sminar12dartrebuiasafie11\\Form1.cs",
+              "RelativeDocumentMoniker": "Sminar12dartrebuiasafie11\\Form1.cs",
+              "ToolTip": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\NET_FrameWork_C_sharp\\Sminar12dartrebuiasafie11\\Sminar12dartrebuiasafie11\\Form1.cs [Design]",
+              "RelativeToolTip": "Sminar12dartrebuiasafie11\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T08:05:13.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Prioritate.cs",
+              "DocumentMoniker": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\NET_FrameWork_C_sharp\\Sminar12dartrebuiasafie11\\Sminar12dartrebuiasafie11\\Prioritate.cs",
+              "RelativeDocumentMoniker": "Sminar12dartrebuiasafie11\\Prioritate.cs",
+              "ToolTip": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\PAW\\NET_FrameWork_C_sharp\\Sminar12dartrebuiasafie11\\Sminar12dartrebuiasafie11\\Prioritate.cs",
+              "RelativeToolTip": "Sminar12dartrebuiasafie11\\Prioritate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T08:07:18.732Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

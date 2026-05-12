@@ -1,0 +1,12 @@
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\NET_FrameWork_C_sharp\Sminar12dartrebuiasafie11\Sminar12dartrebuiasafie11\bin\Debug\Sminar12dartrebuiasafie11.exe.config
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\NET_FrameWork_C_sharp\Sminar12dartrebuiasafie11\Sminar12dartrebuiasafie11\bin\Debug\Sminar12dartrebuiasafie11.exe
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\NET_FrameWork_C_sharp\Sminar12dartrebuiasafie11\Sminar12dartrebuiasafie11\bin\Debug\Sminar12dartrebuiasafie11.pdb
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\NET_FrameWork_C_sharp\Sminar12dartrebuiasafie11\Sminar12dartrebuiasafie11\obj\Debug\Sminar12dartrebuiasafie11.csproj.AssemblyReference.cache
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\NET_FrameWork_C_sharp\Sminar12dartrebuiasafie11\Sminar12dartrebuiasafie11\obj\Debug\Sminar12dartrebuiasafie11.Properties.Resources.resources
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\NET_FrameWork_C_sharp\Sminar12dartrebuiasafie11\Sminar12dartrebuiasafie11\obj\Debug\Sminar12dartrebuiasafie11.csproj.GenerateResource.cache
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\NET_FrameWork_C_sharp\Sminar12dartrebuiasafie11\Sminar12dartrebuiasafie11\obj\Debug\Sminar12dartrebuiasafie11.csproj.CoreCompileInputs.cache
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\NET_FrameWork_C_sharp\Sminar12dartrebuiasafie11\Sminar12dartrebuiasafie11\obj\Debug\Sminar12dartrebuiasafie11.exe
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\NET_FrameWork_C_sharp\Sminar12dartrebuiasafie11\Sminar12dartrebuiasafie11\obj\Debug\Sminar12dartrebuiasafie11.pdb
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\NET_FrameWork_C_sharp\Sminar12dartrebuiasafie11\Sminar12dartrebuiasafie11\obj\Debug\Sminar12dartrebuiasafie11.exe.config
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\NET_FrameWork_C_sharp\Sminar12dartrebuiasafie11\Sminar12dartrebuiasafie11\obj\Debug\Sminar12dartrebuiasafie11.Form1.resources
+C:\Users\Razvan Petcu\Desktop\An2CSIE\PAW\NET_FrameWork_C_sharp\Sminar12dartrebuiasafie11\Sminar12dartrebuiasafie11\obj\Debug\Sminar12dartrebuiasafie11.FormLista.resources
